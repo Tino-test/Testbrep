@@ -7,6 +7,10 @@ public class Pgmodel {
 	@FindBy(id="email")
 	private WebElement email;
 	
+	@FindBy(id="pass")
+	private WebElement password;
+	
+	
 
 
 	
